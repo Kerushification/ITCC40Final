@@ -1,0 +1,14 @@
+{
+  "name": "itcc40final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./src/css/tailwind.css --watch"
+  },
+  "author": "Raj Byron Abadilla",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
